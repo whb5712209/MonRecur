@@ -1,0 +1,9 @@
+﻿##过滤文件夹
+/node_modules
+/app/dist
+npm-debug.log
+.idea
+.vscode
+debug.log
+.DS_Store
+*/.DS_Store
